@@ -1,4 +1,4 @@
-# Maurer-Rose
+# Maurer Rose
 ![Maurer Rose](maurer.PNG)
 
 
